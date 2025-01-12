@@ -11,12 +11,15 @@
   "dependencies": {
     "@emailjs/browser": "^3.9.1",
     "aos": "^2.3.4",
+    "glob": "^11.0.1",
+    "lru-cache": "^11.0.2",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-hot-toast": "^2.4.0",
     "react-icons": "^4.6.0",
     "react-modal": "^3.16.1",
-    "swiper": "^8.4.4"
+    "swiper": "^8.4.4",
+    "uuid": "^11.0.5"
   },
   "devDependencies": {
     "@types/react": "^18.0.24",
